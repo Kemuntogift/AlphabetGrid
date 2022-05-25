@@ -13,7 +13,7 @@
         android:textSize="30sp" />
 
     <GridView
-        android:id="@+id/baserGridView"
+        android:id="@+id/baseGridView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
